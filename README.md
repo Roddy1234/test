@@ -1,3 +1,5 @@
-# test
-## test_2
-### test_3
+## Introduction
+Hi, this is Roddy.
+
+## Career
+- I'm currently a student in Yeungnam University.
